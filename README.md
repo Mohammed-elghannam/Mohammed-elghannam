@@ -1,58 +1,43 @@
-<h2 align="left">Hi 👋! My name is Mohammed Elghannam and I'm a Data Scientist from Cairo</h2>
+<h1 align="center">Hi 👋, I'm Mohammed Elghannam</h1>
+<h3 align="center">The Creative Data Scientist from Cairo, Egypt.</h3>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-elghannam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohammed-elghannam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+- 🔭 I’m currently working on **Data Analysis & Machine Learning Projects**
+- 📫 How to reach me: **mohamedelghannam762@gmail.com**
+- 📊 I use **Python, SQL, Power BI**, and **Machine Learning** to turn raw data into insights
+- ⚡ Fun fact: I love teaching kids to code at **Algora** and exploring how AI can help in agriculture 🌾
 
-###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+---
 
-###
+![snake gif](https://github.com/Mohammed-elghannam/Mohammed-elghannam/blob/output/snake.svg)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black&style=flat-square" height="30" alt="powerbi logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=flat-square" height="30" alt="tableau logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&style=flat-square" height="30" alt="excel logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square" height="30" alt="sklearn logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square" height="30" alt="tensorflow logo" />
-</div>
-
-###
-
-<div align="left">
+---
+### 📫 Connect with me:
+<p align="left">
   <a href="https://www.linkedin.com/in/mohamed-elghannam-30292a235" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white" />
   </a>
   <a href="mailto:mohamedelghannam762@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
+</p>
 
-###
+---
 
-<br clear="both">
+### 💻 Languages and Tools:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" height="30"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/scikit%20learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" height="30"/>
+</p>
 
-<img src="https://github.com/Mohammed-elghannam/Mohammed-elghannam/blob/output/snake.svg" alt="Snake animation" />
-
-
-###
