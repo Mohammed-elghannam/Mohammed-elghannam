@@ -6,8 +6,6 @@
 - 🔭 I’m currently working on **Data Analysis & Machine Learning Projects**
 - 📫 How to reach me: **mohamedelghannam762@gmail.com**
 - 📊 I use **Python, SQL, Power BI**, and **Machine Learning** to turn raw data into insights
-- ⚡ Fun fact: I love teaching kids to code at **Algora** and exploring how AI can help in agriculture 🌾
-
 ###
 
 <div align="center">
