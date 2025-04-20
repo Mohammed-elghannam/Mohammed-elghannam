@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Elghannam</h1>
-<h3 align="center">The Creative Data Scientist from Cairo, Egypt.</h3>
+<h3 align="center"> Data Scientist from Cairo, Egypt.</h3>
 
 ---
 
@@ -8,6 +8,14 @@
 - 📊 I use **Python, SQL, Power BI**, and **Machine Learning** to turn raw data into insights
 - ⚡ Fun fact: I love teaching kids to code at **Algora** and exploring how AI can help in agriculture 🌾
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-elghannam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohammed-elghannam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
 
 ---
 
