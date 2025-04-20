@@ -4,6 +4,7 @@
 ---
 
 - 🔭 I’m currently working on **Data Analysis & Machine Learning Projects**
+- 👨‍💻 I also work as a **Freelance Data Analyst** on [Khamsat](https://khamsat.com/user/mohammed_elghannam)
 - 📫 How to reach me: **mohamedelghannam762@gmail.com**
 - 📊 I use **Python, SQL, Power BI**, and **Machine Learning** to turn raw data into insights
 ###
